@@ -1,0 +1,16 @@
+body {
+  background: black;
+}
+
+div {
+width: 940px;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  margin: 65px 100px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
